@@ -84,7 +84,7 @@ export default function FeedbackList() {
             <div className="feedbackListTop">
                 <h3 className="feedbackListTitle">Feedback List</h3>
                 <Link to="/newFeedback">
-                    <button className="feedbackListCreateBtn">Create</button>
+                    <button className="feedbackListCreateBtn">Creae</button>
                 </Link>
             </div>
             <div className="feedbackListContent">
